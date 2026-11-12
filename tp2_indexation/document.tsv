@@ -1,0 +1,59 @@
+doc1:	 Les systèmes de recherche d'information permettent de retrouver des documents pertinents à partir d'une requête utilisateur.
+
+doc2: 	La recherche d'information consiste à rechercher, sélectionner et classer des documents selon leur pertinence pour une requête.
+
+doc3: 	Les moteurs de recherche utilisent différentes techniques pour retrouver rapidement les documents correspondant aux requêtes des utilisateurs.
+
+doc4: 	L'indexation consiste à analyser les documents et à construire une structure permettant d'accéder rapidement aux informations recherchées.
+
+doc5: 	Un index inversé associe chaque terme à la liste des documents dans lesquels ce terme apparaît.
+
+doc6: 	Les index inversés permettent aux systèmes de recherche d'information de retrouver efficacement les documents contenant les termes d'une requête.
+
+doc7: 	Le modèle booléen représente les requêtes avec des opérateurs logiques comme AND, OR et NOT.
+
+doc8: 	Dans le modèle booléen, l'opérateur AND permet de rechercher les documents contenant plusieurs termes simultanément.
+
+doc9: 	Le modèle vectoriel représente les documents et les requêtes sous forme de vecteurs dans un espace multidimensionnel.
+
+doc10: 	La similarité cosinus permet de mesurer la proximité entre un document et une requête dans le modèle vectoriel.
+
+doc11: 	Le modèle vectoriel permet de classer les documents selon leur degré de similarité avec la requête.
+
+doc12: 	TF-IDF mesure l'importance d'un terme dans un document en tenant compte de sa fréquence et de sa présence dans le corpus.
+
+doc13: 	La fréquence TF indique combien de fois un terme apparaît dans un document.
+
+doc14: 	La fréquence inverse de document IDF donne plus d'importance aux termes rares dans un corpus de documents.
+
+doc15: 	La méthode TF-IDF est couramment utilisée pour représenter les documents et calculer leur pertinence par rapport aux requêtes.
+
+doc16: 	BM25 est une fonction de classement utilisée en recherche d'information pour mesurer la pertinence des documents par rapport à une requête.
+
+doc17: 	Le modèle BM25 prend en compte la fréquence des termes et la longueur des documents pour calculer un score de pertinence.
+
+doc18: 	BM25 améliore le classement des résultats en tenant compte de la fréquence des mots dans les documents et de leur rareté dans le corpus.
+
+doc19: 	Les embeddings représentent les mots, les documents ou les requêtes sous forme de vecteurs numériques denses.
+
+doc20: 	Les représentations vectorielles appelées embeddings permettent de capturer des relations sémantiques entre les textes.
+
+doc21: 	Les embeddings de documents peuvent être comparés afin de rechercher des textes ayant un contenu sémantiquement similaire.
+
+doc22: 	Le dense retrieval utilise des représentations vectorielles denses pour rechercher des documents similaires à une requête.
+
+doc23: 	Dans le dense retrieval, les requêtes et les documents sont transformés en embeddings avant de calculer leur similarité.
+
+doc24: 	Le dense retrieval peut retrouver des documents pertinents même lorsque les mots de la requête sont différents de ceux utilisés dans les documents.
+
+doc25: 	Les bases de données vectorielles permettent de stocker des embeddings et d'effectuer des recherches par similarité.
+
+doc26: 	Les moteurs de recherche combinent souvent l'indexation, le classement et différentes méthodes de recherche pour fournir des résultats pertinents.
+
+doc27: 	Le classement des résultats consiste à ordonner les documents selon leur pertinence par rapport à la requête de l'utilisateur.
+
+doc28: 	Les systèmes modernes de recherche peuvent utiliser des modèles classiques comme TF-IDF et BM25 ainsi que des méthodes basées sur les embeddings.
+
+doc29: 	La recherche hybride combine la recherche lexicale basée sur les termes et la recherche sémantique basée sur les embeddings.
+
+doc30: 	Un système de recherche d'information efficace doit retrouver rapidement les documents pertinents et les classer selon leur degré de pertinence.
